@@ -1,6 +1,5 @@
 # House Marketplace
-A React + Firebase v9 project
-Purpose: Search and list houses for sale or for rent.
+Built with React framework, Firebase storage & authentication, Google OAuth, Geocoding API, and so on.
 
 
 ## Usage
